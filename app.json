@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ToolBox",
+    "slug": "ToolBox",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
