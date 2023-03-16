@@ -34,3 +34,7 @@ If you have any questions or suggestions, feel free to contact me through my ema
 React Documentation
 React Native Documentation
 Expo Documentation
+
+# Languages / Framework
+** Javascript **
+** React Native **
