@@ -8,14 +8,14 @@ import Home from './screens/Home';
 import Network from './screens/Network';
 import { isMobileDevice } from './utils/Utils';
 import { StatusBar } from 'expo-status-bar';
+import { useEffect } from 'react';
 
 let Location = null;
 
-if (isMobileDevice())
-{
-    import('./screens/Location').then((module) => {
-      Location = module.default;
-    });
+if (isMobileDevice()) {
+  import('./screens/Location').then((module) => {
+    Location = module.default;
+  });
 }
 
 export default function App() {

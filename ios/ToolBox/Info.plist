@@ -51,5 +51,7 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+  <key>NSFaceIDUsageDescription</key>
+  <string>$(App_Name) requires FaceID access to allows you quick and secure access.</string>
 </dict>
 </plist>
